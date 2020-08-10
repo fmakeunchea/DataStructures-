@@ -7,7 +7,7 @@ public interface BagInterface<T> {
      * @return the integer number of entry curently in the bag
      */
     public int getCurrentSise();
-    /** sees wheter this bag is empty.
+    /** sees whether this bag is empty.
      * @return True if the bag is empty , or false if the bad is not empty
      */
     public boolean isEmpty();

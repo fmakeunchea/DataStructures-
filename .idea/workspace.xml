@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6df224e8-fa44-49a7-9c37-7a9fbec8f53b" name="Default Changelist" comment="" />
+    <list default="true" id="6df224e8-fa44-49a7-9c37-7a9fbec8f53b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter1/ArrayBag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter1/OrderedPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter1/Pairable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter1/PiggyBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter1/PiggyBankExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter1/SetInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algoritm/com/helloWorldApp/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter1/BagInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/BagInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter1/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter1/OnlineShopper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/OnlineShopper.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,11 +29,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1flEQ36cObvkpHEsqvYAKEvt92Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -52,25 +75,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="842" y="136" key="#com.intellij.ide.util.MemberChooser" timestamp="1596785355518">
+    <state x="1497" y="213" key="#com.intellij.ide.util.MemberChooser" timestamp="1596989219505">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="842" y="136" key="#com.intellij.ide.util.MemberChooser/0.23.1440.794@0.23.1440.794" timestamp="1596979923095" />
+    <state x="1497" y="213" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1337@0.23.2560.1337" timestamp="1596989219505" />
+    <state width="779" height="203" key="GridCell.Tab.0.bottom" timestamp="1597017782367">
       <screen x="0" y="23" width="1440" height="794" />
     </state>
-    <state x="842" y="136" key="#com.intellij.ide.util.MemberChooser/0.23.1440.794@0.23.1440.794" timestamp="1596785355518" />
-    <state width="779" height="203" key="GridCell.Tab.0.bottom" timestamp="1596978637990">
+    <state width="779" height="203" key="GridCell.Tab.0.bottom/0.23.1440.794@0.23.1440.794" timestamp="1597017782367" />
+    <state width="779" height="203" key="GridCell.Tab.0.center" timestamp="1597017782357">
       <screen x="0" y="23" width="1440" height="794" />
     </state>
-    <state width="779" height="203" key="GridCell.Tab.0.bottom/0.23.1440.794@0.23.1440.794" timestamp="1596978637990" />
-    <state width="779" height="203" key="GridCell.Tab.0.center" timestamp="1596978637989">
+    <state width="779" height="203" key="GridCell.Tab.0.center/0.23.1440.794@0.23.1440.794" timestamp="1597017782357" />
+    <state width="779" height="203" key="GridCell.Tab.0.left" timestamp="1597017782355">
       <screen x="0" y="23" width="1440" height="794" />
     </state>
-    <state width="779" height="203" key="GridCell.Tab.0.center/0.23.1440.794@0.23.1440.794" timestamp="1596978637989" />
-    <state width="779" height="203" key="GridCell.Tab.0.left" timestamp="1596978637988">
+    <state width="779" height="203" key="GridCell.Tab.0.left/0.23.1440.794@0.23.1440.794" timestamp="1597017782355" />
+    <state width="779" height="203" key="GridCell.Tab.0.right" timestamp="1597017782362">
       <screen x="0" y="23" width="1440" height="794" />
     </state>
-    <state width="779" height="203" key="GridCell.Tab.0.left/0.23.1440.794@0.23.1440.794" timestamp="1596978637988" />
-    <state width="779" height="203" key="GridCell.Tab.0.right" timestamp="1596978637989">
-      <screen x="0" y="23" width="1440" height="794" />
-    </state>
-    <state width="779" height="203" key="GridCell.Tab.0.right/0.23.1440.794@0.23.1440.794" timestamp="1596978637989" />
+    <state width="779" height="203" key="GridCell.Tab.0.right/0.23.1440.794@0.23.1440.794" timestamp="1597017782362" />
   </component>
 </project>
